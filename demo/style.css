@@ -210,7 +210,7 @@ text h4 {
     display: flex;
     flex-direction: column;
     position: relative;
-    left: 300px;
+    left: 280px;
 }
 
 .prot-text {
@@ -245,7 +245,7 @@ text h4 {
     justify-content: end;
     position: relative;
     top: 200px;
-    left: 250px;
+    left: 300px;
 }
 
 .sales-button {
