@@ -306,19 +306,11 @@ text h4 {
 
 .left {
     width: 20px; height: 30px;
-    font-size: 0;
-    border: none;
-    background-color: #000000;
-    background-image: url(/image/chevron_left.svg);
     cursor: pointer;
 }
 
 .right {
     width: 20px; height: 30px;
-    font-size: 0;
-    border: none;
-    background-color: #000000;
-    background-image: url(/image/chevron_right.svg);
     cursor: pointer;
 }
 
