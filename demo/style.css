@@ -309,7 +309,7 @@ text h4 {
     font-size: 0;
     border: none;
     background-color: #000000;
-    background-image: url(/image/chevron-left.svg);
+    background-image: url(/image/chevron_left.svg);
     cursor: pointer;
 }
 
@@ -318,7 +318,7 @@ text h4 {
     font-size: 0;
     border: none;
     background-color: #000000;
-    background-image: url(/image/chevron-right.svg);
+    background-image: url(/image/chevron_right.svg);
     cursor: pointer;
 }
 
