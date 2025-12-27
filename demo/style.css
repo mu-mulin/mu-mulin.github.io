@@ -205,7 +205,7 @@ text h4 {
 
 .protfolio-image {
     width: 700px; height: 580px;
-    background-image: url(/image/Ellipse\ 1.svg);
+    background-image: url(image/ellipse_1.svg);
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
