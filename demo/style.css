@@ -91,16 +91,20 @@ header ul a:hover {
 
 header .search-group {
     align-content: center;
-    position: relative;
-    top: 3px;
     margin: 0 auto;
+    background-image: url(image/search_icon.svg);
+    background-repeat: no-repeat;
+    background-position: 105px center;
+    
 }
 
-header .search-icon {
-    position: relative;
-    bottom: 3px;
-    right: 35px;
-    cursor: pointer;
+input {
+    width: 135px; height: 28px;
+    font-size: 14px;
+    border: none;
+    border-radius: 40px;
+    padding-left: 12px;
+    filter: opacity(50%);
 }
 
 
